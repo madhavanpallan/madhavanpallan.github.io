@@ -356,9 +356,9 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: jquery 2s ease;
 }
 
-@-moz-keyframes photoshop {
+@-moz-keyframes machinelearning {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 85%;  }
 }
 @-moz-keyframes illustrator {
   0%   { width: 0px;  }
@@ -381,9 +381,9 @@ ul#nav li.current a { color: #F06000; }
   100% { width: 50%;  }
 }
 
-@-webkit-keyframes photoshop {
+@-webkit-keyframes machinelearning {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 85%;  }
 }
 @-webkit-keyframes illustrator {
   0%   { width: 0px;  }
