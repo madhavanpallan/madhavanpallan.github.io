@@ -326,7 +326,7 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .machinelearning {
-  	width: 60%;
+  	width: 85%;
   	-moz-animation: machinelearning 2s ease;
   	-webkit-animation: machinelearning 2s ease;
 }
