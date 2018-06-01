@@ -356,7 +356,7 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: jquery 2s ease;
 }
 
-@-moz-keyframes machinelearning {
+@-moz-keyframes photoshop {
   0%   { width: 0px;  }
   100% { width: 60%;  }
 }
@@ -381,7 +381,7 @@ ul#nav li.current a { color: #F06000; }
   100% { width: 50%;  }
 }
 
-@-webkit-keyframes machinelearning {
+@-webkit-keyframes photoshop {
   0%   { width: 0px;  }
   100% { width: 60%;  }
 }
