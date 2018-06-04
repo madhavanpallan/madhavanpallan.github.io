@@ -1,0 +1,18 @@
+Images of ISS(International Space Station)
+1) https://www.nasa.gov/mission_pages/station/images/station_post_construction/index.html
+2) Google Images
+
+Online resize images;
+1) https://www.imgonline.com.ua/eng/compress-image-size-result.php
+
+Add a section on machine learning:
+1) https://ml4a.github.io/ml4a/looking_inside_neural_nets/
+2) https://mast-group.github.io/
+
+Some good deeplearning references;
+1) http://www.cs.toronto.edu/~hinton/deeprefs.html
+2) AI winter - https://blog.piekniewski.info/2018/05/28/ai-winter-is-well-on-its-way/
+3) 
+
+Some resume to look upon 
+1) https://github.com/opensorceror/Data-Engineer-Resume-LaTeX
