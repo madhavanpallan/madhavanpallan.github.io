@@ -191,6 +191,7 @@ ul#nav li.current a { color: #F06000; }
    padding-top: 96px;
    padding-bottom: 66px;
    overflow: hidden;
+   font: 16px/24px 'Times New Roman', Times, serif;
 }
 
 #about a, #about a:visited  { color: #fff; }
@@ -205,6 +206,7 @@ ul#nav li.current a { color: #F06000; }
    line-height: 30px;
    color: #7A7A7A;
 }
+
 #about .profile-pic {
    position: relative;
    width: 200px;
@@ -246,7 +248,8 @@ ul#nav li.current a { color: #F06000; }
 #resume a:hover, #resume a:focus { color: #313131; }
 
 #resume h1 {
-   font: 18px/24px 'opensans-bold', sans-serif;
+   /*font: 18px/24px 'opensans-bold', sans-serif;*/
+   font: bold 18px/30px "Times New Roman", Times, serif ;
    text-transform: uppercase;
    letter-spacing: 1px;
 }
@@ -255,11 +258,18 @@ ul#nav li.current a { color: #F06000; }
    padding-bottom: 6px;
 }
 #resume h3 {
-   font: 25px/30px 'opensans-bold', sans-serif;
+   /*font: 25px/30px 'opensans-bold', sans-serif;*/
+   font: bold 25px/30px "Times New Roman", Times, serif ;
 }
 
+#resume b {
+   font: bold 16px/24px "Times New Roman", Times, serif ;
+}
+
+;
 #resume .header-col { padding-top: 9px; }
-#resume .main-col { padding-right: 10%; }
+#resume .main-col { padding-right: 10%; font: 16px/24px 'Times New Roman', Times, serif;
+   color: #6E7881;}
 
 .education, .work {
    margin-bottom: 48px;
@@ -268,6 +278,7 @@ ul#nav li.current a { color: #F06000; }
 }
 #resume .info {
    font: 16px/24px 'librebaskerville-italic', serif;
+   /*color: #11ABB0;*/
    color: #6E7881;
    margin-bottom: 18px;
    margin-top: 9px;
@@ -277,7 +288,8 @@ ul#nav li.current a { color: #F06000; }
    margin-left: 5px;
 }
 #resume .date {
-   font: 15px/24px 'opensans-regular', sans-serif;
+   /*font: 15px/24px 'opensans-regular', sans-serif;*/
+   font: 15px/24px 'Times New Roman', Times, serif;
    margin-top: 6px;
 }
 
@@ -303,7 +315,8 @@ ul#nav li.current a { color: #F06000; }
   	border-radius: 3px;
 }
 .bars li em {
-	font: 15px 'opensans-bold', sans-serif;
+	/*font: 15px 'opensans-bold', sans-serif;*/
+   font: 15px 'Times New Roman', Times, serif;
    color: #313131;
 	text-transform: uppercase;
    letter-spacing: 2px;
