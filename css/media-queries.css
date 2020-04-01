@@ -62,6 +62,11 @@
    #resume h1 { font: 16px/24px 'opensans-bold', sans-serif; }
    #resume .main-col { padding-right: 5%; }   
 
+   /* Award Section
+   ------------------------------------------------------------------- */
+   #award h1 { font: 16px/24px 'opensans-bold', sans-serif; }
+   #award .main-col { padding-right: 5%; }   
+
    /* Testimonials Section
    ------------------------------------------------------------------- */
    #testimonials .header-col h1:before {
@@ -237,7 +242,19 @@
       
    .bars { width: 100%; }
 
-
+   /* Award Section
+      --------------------------------------------------------------------- */
+      #award .header-col {
+      padding-top: 0;
+      margin-bottom: 48px;
+      text-align: center;
+   }
+   #award h1 { letter-spacing: 3px; }
+   #award .main-col { padding-right: 30px; }
+   #award h3, #award .info { text-align: center; }
+      
+   .bars { width: 100%; }
+   
    /* Call To Action Section
    /* ----------------------------------------------------------------- */
    #call-to-action { text-align: center; }

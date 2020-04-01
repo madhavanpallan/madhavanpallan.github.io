@@ -283,11 +283,296 @@ ul#nav li.current a { color: #F06000; }
    margin-bottom: 18px;
    margin-top: 9px;
 }
+
+#resume .item {
+   font: 16px/24px 'librebaskerville-italic', serif;
+   /*color: #11ABB0;*/
+   color: #6E7881;
+   margin-bottom: 0px;
+   margin-top: 0px;
+}
+
 #resume .info span {
    margin-right: 5px;
    margin-left: 5px;
 }
 #resume .date {
+   /*font: 15px/24px 'opensans-regular', sans-serif;*/
+   font: 15px/24px 'Times New Roman', Times, serif;
+   margin-top: 6px;
+}
+
+/* ------------------------------------------------------------------ */
+/* d. Project Section
+/* ------------------------------------------------------------------ */
+
+#project {
+   background: #fff;
+   padding-top: 90px;
+   padding-bottom: 72px;
+   overflow: hidden;
+}
+
+#project a, #project a:visited  { color: #11ABB0; }
+#project a:hover, #project a:focus { color: #313131; }
+
+#project h1 {
+   /*font: 18px/24px 'opensans-bold', sans-serif;*/
+   font: bold 18px/30px "Times New Roman", Times, serif ;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+}
+#project h1 span {
+   border-bottom: 3px solid #11ABB0;
+   padding-bottom: 6px;
+}
+#project h3 {
+   /*font: 25px/30px 'opensans-bold', sans-serif;*/
+   font: bold 25px/30px "Times New Roman", Times, serif ;
+}
+
+#project b {
+   font: bold 16px/24px "Times New Roman", Times, serif ;
+}
+
+;
+#project .header-col { padding-top: 9px; }
+#project .main-col { padding-right: 10%; font: 16px/24px 'Times New Roman', Times, serif;
+   color: #6E7881;}
+
+.education, .work {
+   margin-bottom: 48px;
+   padding-bottom: 24px;
+   border-bottom: 1px solid #E8E8E8;
+}
+#project .info {
+   font: 16px/24px 'librebaskerville-italic', serif;
+   /*color: #11ABB0;*/
+   color: #6E7881;
+   margin-bottom: 18px;
+   margin-top: 9px;
+}
+
+#project .item {
+   font: 16px/24px 'librebaskerville-italic', serif;
+   /*color: #11ABB0;*/
+   color: #6E7881;
+   margin-bottom: 0px;
+   margin-top: 0px;
+}
+
+#project .info span {
+   margin-right: 5px;
+   margin-left: 5px;
+}
+#project .date {
+   /*font: 15px/24px 'opensans-regular', sans-serif;*/
+   font: 15px/24px 'Times New Roman', Times, serif;
+   margin-top: 6px;
+}
+
+/* ------------------------------------------------------------------ */
+/* d. Award Section
+/* ------------------------------------------------------------------ */
+
+#award {
+   background: #fff;
+   padding-top: 90px;
+   padding-bottom: 72px;
+   overflow: hidden;
+}
+
+#award a, #award a:visited  { color: #11ABB0; }
+#award a:hover, #award a:focus { color: #313131; }
+
+#award h1 {
+   /*font: 18px/24px 'opensans-bold', sans-serif;*/
+   font: bold 18px/30px "Times New Roman", Times, serif ;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+}
+#award h1 span {
+   border-bottom: 3px solid #11ABB0;
+   padding-bottom: 6px;
+}
+#award h3 {
+   /*font: 25px/30px 'opensans-bold', sans-serif;*/
+   font: bold 25px/30px "Times New Roman", Times, serif ;
+}
+
+#award b {
+   font: bold 16px/24px "Times New Roman", Times, serif ;
+}
+
+;
+#award .header-col { padding-top: 9px; }
+#award .main-col { padding-right: 10%; font: 16px/24px 'Times New Roman', Times, serif;
+   color: #6E7881;}
+
+.education, .work {
+   margin-bottom: 48px;
+   padding-bottom: 24px;
+   border-bottom: 1px solid #E8E8E8;
+}
+#award .info {
+   font: 16px/24px 'librebaskerville-italic', serif;
+   /*color: #11ABB0;*/
+   color: #6E7881;
+   margin-bottom: 18px;
+   margin-top: 9px;
+}
+
+#award .item {
+   font: 16px/24px 'librebaskerville-italic', serif;
+   /*color: #11ABB0;*/
+   color: #6E7881;
+   margin-bottom: 0px;
+   margin-top: 0px;
+}
+
+#award .info span {
+   margin-right: 5px;
+   margin-left: 5px;
+}
+#award .date {
+   /*font: 15px/24px 'opensans-regular', sans-serif;*/
+   font: 15px/24px 'Times New Roman', Times, serif;
+   margin-top: 6px;
+}
+
+/* ------------------------------------------------------------------ */
+/* d. skills Section
+/* ------------------------------------------------------------------ */
+
+#skills {
+   background: #fff;
+   padding-top: 90px;
+   padding-bottom: 72px;
+   overflow: hidden;
+}
+
+#skills a, #skills a:visited  { color: #11ABB0; }
+#skills a:hover, #skills a:focus { color: #313131; }
+
+#skills h1 {
+   /*font: 18px/24px 'opensans-bold', sans-serif;*/
+   font: bold 18px/30px "Times New Roman", Times, serif ;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+}
+#skills h1 span {
+   border-bottom: 3px solid #11ABB0;
+   padding-bottom: 6px;
+}
+#skills h3 {
+   /*font: 25px/30px 'opensans-bold', sans-serif;*/
+   font: bold 25px/30px "Times New Roman", Times, serif ;
+}
+
+#skills b {
+   font: bold 16px/24px "Times New Roman", Times, serif ;
+}
+
+;
+#skills .header-col { padding-top: 9px; }
+#skills .main-col { padding-right: 10%; font: 16px/24px 'Times New Roman', Times, serif;
+   color: #6E7881;}
+
+.education, .work {
+   margin-bottom: 48px;
+   padding-bottom: 24px;
+   border-bottom: 1px solid #E8E8E8;
+}
+#skills .info {
+   font: 16px/24px 'librebaskerville-italic', serif;
+   /*color: #11ABB0;*/
+   color: #6E7881;
+   margin-bottom: 18px;
+   margin-top: 9px;
+}
+
+#skills .item {
+   font: 16px/24px 'librebaskerville-italic', serif;
+   /*color: #11ABB0;*/
+   color: #6E7881;
+   margin-bottom: 0px;
+   margin-top: 0px;
+}
+
+#skills .info span {
+   margin-right: 5px;
+   margin-left: 5px;
+}
+#skills .date {
+   /*font: 15px/24px 'opensans-regular', sans-serif;*/
+   font: 15px/24px 'Times New Roman', Times, serif;
+   margin-top: 6px;
+}
+
+/* ------------------------------------------------------------------ */
+/* d. groups Section
+/* ------------------------------------------------------------------ */
+
+#groups {
+   background: #fff;
+   padding-top: 90px;
+   padding-bottom: 72px;
+   overflow: hidden;
+}
+
+#groups a, #groups a:visited  { color: #11ABB0; }
+#groups a:hover, #groups a:focus { color: #313131; }
+
+#groups h1 {
+   /*font: 18px/24px 'opensans-bold', sans-serif;*/
+   font: bold 18px/30px "Times New Roman", Times, serif ;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+}
+#groups h1 span {
+   border-bottom: 3px solid #11ABB0;
+   padding-bottom: 6px;
+}
+#groups h3 {
+   /*font: 25px/30px 'opensans-bold', sans-serif;*/
+   font: bold 25px/30px "Times New Roman", Times, serif ;
+}
+
+#groups b {
+   font: bold 16px/24px "Times New Roman", Times, serif ;
+}
+
+;
+#groups .header-col { padding-top: 9px; }
+#groups .main-col { padding-right: 10%; font: 16px/24px 'Times New Roman', Times, serif;
+   color: #6E7881;}
+
+.education, .work {
+   margin-bottom: 48px;
+   padding-bottom: 24px;
+   border-bottom: 1px solid #E8E8E8;
+}
+#groups .info {
+   font: 16px/24px 'librebaskerville-italic', serif;
+   /*color: #11ABB0;*/
+   color: #6E7881;
+   margin-bottom: 18px;
+   margin-top: 9px;
+}
+
+#groups .item {
+   font: 16px/24px 'librebaskerville-italic', serif;
+   /*color: #11ABB0;*/
+   color: #6E7881;
+   margin-bottom: 0px;
+   margin-top: 0px;
+}
+
+#groups .info span {
+   margin-right: 5px;
+   margin-left: 5px;
+}
+#groups .date {
    /*font: 15px/24px 'opensans-regular', sans-serif;*/
    font: 15px/24px 'Times New Roman', Times, serif;
    margin-top: 6px;
@@ -645,6 +930,75 @@ call-to-action .button {
 #call-to-action p span {
 	font-family: 'opensans-semibold', sans-serif; 
 	color: #D8D8D8;
+}
+
+/* ------------------------------------------------------------------ */
+/* d. codel Section
+/* ------------------------------------------------------------------ */
+
+#codel {
+   background: #fff;
+   padding-top: 90px;
+   padding-bottom: 72px;
+   overflow: hidden;
+}
+
+#codel a, #codel a:visited  { color: #11ABB0; }
+#codel a:hover, #codel a:focus { color: #313131; }
+
+#codel h1 {
+   /*font: 18px/24px 'opensans-bold', sans-serif;*/
+   font: bold 18px/30px "Times New Roman", Times, serif ;
+   text-transform: uppercase;
+   letter-spacing: 1px;
+}
+#codel h1 span {
+   border-bottom: 3px solid #11ABB0;
+   padding-bottom: 6px;
+}
+#codel h3 {
+   /*font: 25px/30px 'opensans-bold', sans-serif;*/
+   font: bold 25px/30px "Times New Roman", Times, serif ;
+}
+
+#codel b {
+   font: bold 16px/24px "Times New Roman", Times, serif ;
+}
+
+;
+#codel .header-col { padding-top: 9px; }
+#codel .main-col { padding-right: 10%; font: 16px/24px 'Times New Roman', Times, serif;
+   color: #6E7881;}
+
+.education, .work {
+   margin-bottom: 48px;
+   padding-bottom: 24px;
+   border-bottom: 1px solid #E8E8E8;
+}
+#codel .info {
+   font: 16px/24px 'librebaskerville-italic', serif;
+   /*color: #11ABB0;*/
+   color: #6E7881;
+   margin-bottom: 18px;
+   margin-top: 9px;
+}
+
+#codel .item {
+   font: 16px/24px 'librebaskerville-italic', serif;
+   /*color: #11ABB0;*/
+   color: #6E7881;
+   margin-bottom: 0px;
+   margin-top: 0px;
+}
+
+#codel .info span {
+   margin-right: 5px;
+   margin-left: 5px;
+}
+#codel .date {
+   /*font: 15px/24px 'opensans-regular', sans-serif;*/
+   font: 15px/24px 'Times New Roman', Times, serif;
+   margin-top: 6px;
 }
 
 /* ------------------------------------------------------------------

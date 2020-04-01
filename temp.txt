@@ -1,0 +1,149 @@
+70c70
+<                <!-- <li><a href="https://plus.google.com/+MadhavanPallan"><i class="fa fa-google-plus"></i></a></li> -->
+---
+>                <li><a href="https://plus.google.com/+MadhavanPallan"><i class="fa fa-google-plus"></i></a></li>
+100c100
+<             <h2>About Me : -</h2>
+---
+>             <h2>About Me</h2>
+119,120c119
+<                      <!-- <span>madhpallan@gmail.com</span> -->
+<                      <a href="mailto:madhpallan@gmail.com" target="_top">madhpallan@gmail.com</a>
+---
+>                      <span>madhpallan@gmail.com</span>
+162,163c161,166
+<                   <! link - http://www.old.iitbhu.ac.in/apm/TSom.htm>
+<                   </p>
+---
+>                   <!-- <! link - http://www.old.iitbhu.ac.in/apm/TSom.htm>
+>                   http://web.archive.org/web/20130113050307/http://www.google-melange.com/gsoc/proposal/review/google/gsoc2012/mady902/8001
+>                   https://groups.google.com/forum/#!topic/listamacambira/LoBJWW3I1FQ
+>                   http://maverickranter.blogspot.com/2012/05/
+>                    -->
+>                </p>
+220c223
+<                   <h3>Google Summer of Code, Google (Mountain View, California, U.S.)</h3>
+---
+>                   <h3>Google Summer of Code, Google (Mountain View)</h3>
+234c237
+<                   <h3>Robotics Club, IIT(BHU), Varanasi, India</h3>
+---
+>                   <h3>Robotics Club, IIT(BHU)</h3>
+245,254d247
+<             <div class="row item">
+<                <div class="twelve columns">
+< 
+<                   <h3>International Technical festival TECHNEX 2012@ IIT(BHU), Varanasi, India </h3>
+<                   <p class="info">Technical Head and Senior Mentor, Science and Technology Council<span>&bull;</span> <em class="date">July 2012 - May 2013</em></p>
+<                   <p class="main">
+<                   (1 in 3 position institute wide) This work is in continuation with the group called Science and Technology Council, IIT(BHU) - Varanasi. It was fun, mentoring Students on visionary projects in different fields and sometimes cross fields. It always took time and effort explaining the feasibility of the project and getting the project completed. This also included giving key suggestions on Tehnical Event Management, Delivery of technical workshops/ Event Presentations/ Presenting to Junior Mentors and Organisers of Event for the Technical Festival. (source to complete website of TechNex 2012, other coordinators who were part of the event during the following era feel free to use the source !! Special thanks to the maintainers and developers of the website) <a href="https://github.com/madhavanpallan/technex/blob/master/technex/templates/index.html">Link to Archive</a></p>
+<                </div>
+< 
+<             </div> <!-- item end -->
+255a249
+> 
+271,278d264
+<                   <h3>SubBot - chatbot for commuters of subway.</h3>
+<                   <p class="info">In Proceedings of the Thirtieth Conference on Association for the Advancement of Artificial Intelligence at AAAI Conference, 2018 (DEEP DIAL 2018)-- <a href="https://github.com/madhavanpallan/SubBot">Paper/ Demo and Source</a> - <b>Published</b></p>
+<                   <!-- <p class="main">
+<                   We consider the team formation problem where the goal is to find a team of experts for a specific project. In the past, several attempts have been made to formulate this problem and each formulation focuses only on a subset of design criteria such as skill coverage, social compatibility, economy, skill redundancy, etc. In this paper, for the first time, we show that most of the important design criteria for this problem can be fully modeled within one single formulation as an <b>unconstrained submodular function maximization</b> problem. In our formulation, the submodular function turns out to be non-negative and non-monotone. The maximization of this class of submodular function is much less explored than its <b>monotone constrained</b> counterpart. A few recent works *\cite{GHARAN11}  *\cite{FEIGE11} have come up with a simulated annealing based randomized approximation scheme for this problem with an approximation ratio of <b>0.41</b>. In this paper, we customize this algorithm to our formulation and conduct an extensive set of experiments to show its efficacy. Our proposed formulation offers several advantageous features over the existing formulations including <b>skill cover softening</b>, <b>better team communication</b>, and <b>connectivity relaxation</b>.  Unlike previous formulations, the skill cover softening feature allows a designer to specify <b>Must Have</b> and <b>Should Have</b> skills. Similarly, through better team communication, we avoid the restriction that all the communication among team members should pass through only the team members and not the outsiders. Finally, connectivity relaxation feature alleviates the constraint of whole team being connected and thereby, lowering the cost.
+<                   </p> -->
+<                </div>
+< 
+<             </div> <!-- item end -->
+280,284c266,268
+<             <div class="row item">
+< 
+<                <div class="twelve columns">
+<                   <h3>Case Studies in Managing Traffic in a Developing Country with Privacy-Preserving Simulation as a Service.</h3>
+<                   <p class="info">In Proceedings of the Thirteenth International Conference on Services Computing at IEEE SCC Conference, 2016 -- <a href="https://ieeexplore.ieee.org/document/7557525">ieee paper link</a> - <b>Published</b></p>
+---
+>                   <h3>Submodularity in Team Formation</h3>
+>                   <p class="info">In Proceedings of the Fourteenth SIAM International Conference on Data Mining at SDM Conference, 2014 --
+>                   <a href="http://epubs.siam.org/doi/pdf/10.1137/1.9781611973440.102">pdf</a> - <b>Published</b></p>
+295,302d278
+<                   <h3>Automatically Augmenting Titles of Research Paper for Better Discovery</h3>
+<                   <p class="info">In Proceedings of the Thirtieth Conference on Association for the Advancement of Artificial Intelligence at AAAI Conference, 2016 -- <a href="https://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/view/12578">publication profile</a> - <b>Published</b></p>
+<                   <!-- <p class="main">
+<                   We consider the team formation problem where the goal is to find a team of experts for a specific project. In the past, several attempts have been made to formulate this problem and each formulation focuses only on a subset of design criteria such as skill coverage, social compatibility, economy, skill redundancy, etc. In this paper, for the first time, we show that most of the important design criteria for this problem can be fully modeled within one single formulation as an <b>unconstrained submodular function maximization</b> problem. In our formulation, the submodular function turns out to be non-negative and non-monotone. The maximization of this class of submodular function is much less explored than its <b>monotone constrained</b> counterpart. A few recent works *\cite{GHARAN11}  *\cite{FEIGE11} have come up with a simulated annealing based randomized approximation scheme for this problem with an approximation ratio of <b>0.41</b>. In this paper, we customize this algorithm to our formulation and conduct an extensive set of experiments to show its efficacy. Our proposed formulation offers several advantageous features over the existing formulations including <b>skill cover softening</b>, <b>better team communication</b>, and <b>connectivity relaxation</b>.  Unlike previous formulations, the skill cover softening feature allows a designer to specify <b>Must Have</b> and <b>Should Have</b> skills. Similarly, through better team communication, we avoid the restriction that all the communication among team members should pass through only the team members and not the outsiders. Finally, connectivity relaxation feature alleviates the constraint of whole team being connected and thereby, lowering the cost.
+<                   </p> -->
+<                </div>
+< 
+<             </div> <!-- item end -->
+304c280,281
+<             <div class="row item">
+---
+>                   <h3>Automatically Augmenting Titles of Research Paper for Better Discovery</h3>
+>                   <p class="info">In Proceedings of the Thirtieth Conference on Association for the Advancement of Artificial Intelligence at AAAI 2016 -- <a href="https://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/view/12578">publication profile</a> - <b>Published</b></p>
+306,310d282
+<                <div class="twelve columns">
+<                   <h3>Submodularity in Team Formation</h3>
+<                   <p class="info">In Proceedings of the Fourteenth SIAM International Conference on Data Mining at SDM Conference, 2014 --
+<                   <a href="http://epubs.siam.org/doi/pdf/10.1137/1.9781611973440.102">pdf</a> - <b>Published</b></p>
+<                  
+323,375d294
+<       <!-- Journal
+<       ----------------------------------------------- -->
+<       <div class="row work">
+< 
+<          <div class="three columns header-col">
+<             <h1><span>Journals</span></h1>
+<          </div>
+< 
+<          <div class="nine columns main-col">
+< 
+<             <div class="row item">
+< 
+<                <div class="twelve columns">
+<                   <h3>An empirical study of starting salaries and employment trends of Engineering students in India</h3>
+<                   <p class="info">In Proceedings of Volume Fifteenth and Number Three of the International Journal of DataScience at JDS Journal, 2017 -- <a href="http://www.jds-online.com/volume-15-number-3-july-2017">publication listing</a> - <b>Published</b></p>
+<                   <!-- <p class="main">
+<                   We consider the team formation problem where the goal is to find a team of experts for a specific project. In the past, several attempts have been made to formulate this problem and each formulation focuses only on a subset of design criteria such as skill coverage, social compatibility, economy, skill redundancy, etc. In this paper, for the first time, we show that most of the important design criteria for this problem can be fully modeled within one single formulation as an <b>unconstrained submodular function maximization</b> problem. In our formulation, the submodular function turns out to be non-negative and non-monotone. The maximization of this class of submodular function is much less explored than its <b>monotone constrained</b> counterpart. A few recent works *\cite{GHARAN11}  *\cite{FEIGE11} have come up with a simulated annealing based randomized approximation scheme for this problem with an approximation ratio of <b>0.41</b>. In this paper, we customize this algorithm to our formulation and conduct an extensive set of experiments to show its efficacy. Our proposed formulation offers several advantageous features over the existing formulations including <b>skill cover softening</b>, <b>better team communication</b>, and <b>connectivity relaxation</b>.  Unlike previous formulations, the skill cover softening feature allows a designer to specify <b>Must Have</b> and <b>Should Have</b> skills. Similarly, through better team communication, we avoid the restriction that all the communication among team members should pass through only the team members and not the outsiders. Finally, connectivity relaxation feature alleviates the constraint of whole team being connected and thereby, lowering the cost.
+<                   </p> -->
+<                </div>
+< 
+<             </div> <!-- item end -->
+< 
+<          </div> <!-- main-col end -->
+< 
+<       </div> <!-- End Journal -->
+< 
+<       <!-- Orgs
+<       ----------------------------------------------- -->
+<       <div class="row work">
+< 
+<          <div class="three columns header-col">
+<             <h1><span>Organizations</span></h1>
+<          </div>
+< 
+<          <div class="nine columns main-col">
+< 
+<             <div class="row item">
+< 
+<                <div class="twelve columns">
+<                   <h3>Robotics Club at IIT BHU - Alumni Version Since 2009</h3>
+<                   <p class="info">Role - Super Active Owner/ Admin<span>&bull;</span> <em class="date">Aug 2009 - Present</em></p>
+<                   <p class="info">This page emphasis on posting Innovation/ Research/ Technical stuff/ World Class Robotics Events and Competitions for the general public. This page in general for IIT(BHU) alumni’s/ out-going IIT(BHU) students and folks pursuing M.S./ PhD Globally. Previously, the facebook page was called Robotics Club at IIT BHU (Till date - 29 Nov 2019). -- <a href="https://www.facebook.com/roboticsclubatiitbhu/">page link</a> - <b>Published Since 2009</b></p>
+<                   <!-- <p class="main">
+<                   We consider the team formation problem where the goal is to find a team of experts for a specific project. In the past, several attempts have been made to formulate this problem and each formulation focuses only on a subset of design criteria such as skill coverage, social compatibility, economy, skill redundancy, etc. In this paper, for the first time, we show that most of the important design criteria for this problem can be fully modeled within one single formulation as an <b>unconstrained submodular function maximization</b> problem. In our formulation, the submodular function turns out to be non-negative and non-monotone. The maximization of this class of submodular function is much less explored than its <b>monotone constrained</b> counterpart. A few recent works *\cite{GHARAN11}  *\cite{FEIGE11} have come up with a simulated annealing based randomized approximation scheme for this problem with an approximation ratio of <b>0.41</b>. In this paper, we customize this algorithm to our formulation and conduct an extensive set of experiments to show its efficacy. Our proposed formulation offers several advantageous features over the existing formulations including <b>skill cover softening</b>, <b>better team communication</b>, and <b>connectivity relaxation</b>.  Unlike previous formulations, the skill cover softening feature allows a designer to specify <b>Must Have</b> and <b>Should Have</b> skills. Similarly, through better team communication, we avoid the restriction that all the communication among team members should pass through only the team members and not the outsiders. Finally, connectivity relaxation feature alleviates the constraint of whole team being connected and thereby, lowering the cost.
+<                   </p> -->
+<                </div>
+< 
+<             </div> <!-- item end -->
+< 
+<          </div> <!-- main-col end -->
+< 
+<       </div> <!-- End Org -->
+< 
+386,387c305,306
+<         <!--    <p> List of Skills, I would like to bring to the team.
+<             </p> -->
+---
+>             <p> List of Skills, I would like to bring to the team.
+>             </p>
+419,420c338,339
+<                 <li><a href="https://twitter.com/madhavanpallan"><i class="fa fa-twitter"></i></a></li>
+<                <!-- <li><a href="https://plus.google.com/+MadhavanPallan"><i class="fa fa-google-plus"></i></a></li> -->
+---
+>                <li><a href="https://twitter.com/madhavanpallan"><i class="fa fa-twitter"></i></a></li>
+>                <li><a href="https://plus.google.com/+MadhavanPallan"><i class="fa fa-google-plus"></i></a></li>
